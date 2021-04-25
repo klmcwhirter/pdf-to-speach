@@ -1,0 +1,6 @@
+autopep8
+flake8
+pytest
+pytest-cov
+rope
+jmespath-terminal
